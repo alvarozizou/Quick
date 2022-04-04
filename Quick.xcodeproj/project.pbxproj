@@ -21,6 +21,9 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		0C69DA9627FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69DA9527FAF81300A89F31 /* QuickTestExamplesLoader.swift */; };
+		0C69DA9727FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69DA9527FAF81300A89F31 /* QuickTestExamplesLoader.swift */; };
+		0C69DA9827FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69DA9527FAF81300A89F31 /* QuickTestExamplesLoader.swift */; };
 		1F118CDF1BDCA4AB005013A2 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F118CD51BDCA4AB005013A2 /* Quick.framework */; };
 		1F118CF51BDCA4BB005013A2 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F118CD51BDCA4AB005013A2 /* Quick.framework */; };
 		1F118CFB1BDCA536005013A2 /* QuickConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE714FD19FF6A62005905B8 /* QuickConfiguration.m */; };
@@ -337,6 +340,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C69DA9527FAF81300A89F31 /* QuickTestExamplesLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickTestExamplesLoader.swift; sourceTree = "<group>"; };
 		1F118CD51BDCA4AB005013A2 /* Quick.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Quick.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F118CDE1BDCA4AB005013A2 /* Quick - tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Quick - tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F118CF01BDCA4BB005013A2 /* QuickFocused - tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "QuickFocused - tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -795,6 +799,7 @@
 				34C586071C4AC5E500D4F057 /* ErrorUtility.swift */,
 				DAEB6B911943873100289F44 /* Supporting Files */,
 				CE175D4D1E8D6B4900EB5E84 /* Behavior.swift */,
+				0C69DA9527FAF81300A89F31 /* QuickTestExamplesLoader.swift */,
 			);
 			name = Quick;
 			path = Sources/Quick;
@@ -1327,6 +1332,7 @@
 				1F118D021BDCA536005013A2 /* SuiteHooks.swift in Sources */,
 				1F118CFB1BDCA536005013A2 /* QuickConfiguration.m in Sources */,
 				34C5860A1C4AC5E500D4F057 /* ErrorUtility.swift in Sources */,
+				0C69DA9827FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */,
 				1F118D041BDCA536005013A2 /* Example.swift in Sources */,
 				1F118CFF1BDCA536005013A2 /* QCKDSL.m in Sources */,
 				DED3036D1DF6C66B0041394E /* String+C99ExtendedIdentifier.swift in Sources */,
@@ -1415,6 +1421,7 @@
 				DA02C91A19A8073100093156 /* ExampleMetadata.swift in Sources */,
 				34C586091C4AC5E500D4F057 /* ErrorUtility.swift in Sources */,
 				DA408BE719FF5599005DF92A /* SuiteHooks.swift in Sources */,
+				0C69DA9727FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */,
 				34F375BA19515CA700CE1B99 /* QuickSpec.m in Sources */,
 				DED3036C1DF6C66B0041394E /* String+C99ExtendedIdentifier.swift in Sources */,
 				CE590E1C1C431FE300253D19 /* NSBundle+CurrentTestBundle.swift in Sources */,
@@ -1551,6 +1558,7 @@
 				CE57CEDD1C430BD200D63004 /* NSBundle+CurrentTestBundle.swift in Sources */,
 				DA02C91919A8073100093156 /* ExampleMetadata.swift in Sources */,
 				CE57CEDF1C430BD200D63004 /* QuickTestSuite.swift in Sources */,
+				0C69DA9627FAF81300A89F31 /* QuickTestExamplesLoader.swift in Sources */,
 				34C586081C4AC5E500D4F057 /* ErrorUtility.swift in Sources */,
 				DED3036B1DF6C66B0041394E /* String+C99ExtendedIdentifier.swift in Sources */,
 				DA408BE619FF5599005DF92A /* SuiteHooks.swift in Sources */,
